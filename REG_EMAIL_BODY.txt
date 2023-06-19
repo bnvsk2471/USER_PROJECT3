@@ -1,0 +1,13 @@
+Hi ${FNAME} &{LNAME}, <br/>
+<br/>
+Welcome....your registration is almost completed. <br/>
+<br/>
+Please unlock your account by clicking below link.
+
+Temporary Pwd : ${TEMP_PWD} <br/>
+
+<a href="http://localhost:4200/unlock?email=${EMAIL}">Click here to unlock</a> <br/>
+
+<br/>
+Thanks <br/>
+
